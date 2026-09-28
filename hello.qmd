@@ -7,3 +7,10 @@ editor: visual
 ```{r}
 summary(cars)
 ```
+
+```{r}
+library(tidyverse)
+
+ggplot(data = cars, mapping = aes(x = cars$speed, y = cars$dist)) + 
+  geom_point()
+```
