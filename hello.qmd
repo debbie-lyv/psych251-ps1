@@ -12,5 +12,5 @@ summary(cars)
 library(tidyverse)
 
 ggplot(data = cars, mapping = aes(x = cars$speed, y = cars$dist)) + 
-  geom_point()
+  geom_point(color = "blue")
 ```
