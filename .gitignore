@@ -3,6 +3,5 @@
 .RData
 .Ruserdata
 .secrets
-.hello_files/
 *.html
 !docs/index.html
