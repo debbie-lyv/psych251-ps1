@@ -11,4 +11,4 @@ Comments were left on Mythili's pull request (repo URL: https://github.com/miyer
 Comments also left on Yifang's pull request as she didn't find another collaborator (repo URL:https://github.com/Yif-L/psych251-ps1)
 
 ## AI use
-Did not use AI for this assignment, except the AI overview on google when an explanation for specific git commands was needed. 
+Did not use AI for this assignment, except the AI overview on google when I searched up specific git commands (e.g HEAD~1 in git checkout). 
